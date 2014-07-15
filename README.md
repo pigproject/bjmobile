@@ -1,1 +1,4 @@
-ddddddff
+北京移动DEMO
+一共5个需求
+第一个是用mapreduce实现
+其它4个用pig程序实现
